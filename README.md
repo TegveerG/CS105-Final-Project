@@ -18,3 +18,5 @@ through cross-validation was found to be 0.83. Therefore, the addition of input 
 predictive models which progressively generalized better, culminating in the multiple regressor linear
 model with all input attributes explaining approximately 69 percent of the variation in mean earnings of
 students working and not enrolled 10 years after entry into an institution.
+
+Thanks to Rahul Thairani (BU'20) and Jayesh Jain (BU'21) for working alongside me in this project.
